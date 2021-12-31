@@ -11,9 +11,12 @@ Requirements
 A menu to access the screens and reports.
 Enter/Edit screen for the scores.  Each game will have points for each quarter, for each team (8 scores per game).  There are 10 games in a season.
 Storage and retrieval of the scores in a database or text based data file.
+
 Analytics reports that include the following information:
+
 Average points per quarter, half, and game by each team
 Average point differential per quarter, half, and match by each team
 The lowest point total scored during any quarter during the whole season.
-The highest point total scored during any quarter during the whole season
+The highest point total scored during any quarter during the whole season.
+
 The program should use what you have learned in this class and use objects with proper OOP methods. 
