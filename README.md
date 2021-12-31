@@ -14,7 +14,7 @@ Storage and retrieval of the scores in a database or text based data file.
 
 Analytics reports that include the following information:
 
-Average points per quarter, half, and game by each team
+<ul>Average points per quarter, half, and game by each team</ul>
 Average point differential per quarter, half, and match by each team
 The lowest point total scored during any quarter during the whole season.
 The highest point total scored during any quarter during the whole season.
