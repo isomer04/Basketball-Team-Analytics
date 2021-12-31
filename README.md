@@ -14,9 +14,9 @@ Storage and retrieval of the scores in a database or text based data file.
 
 Analytics reports that include the following information:
 
-<ul>Average points per quarter, half, and game by each team</ul>
-Average point differential per quarter, half, and match by each team
-The lowest point total scored during any quarter during the whole season.
-The highest point total scored during any quarter during the whole season.
+<ul>Average points per quarter, half, and game by each team.</ul>
+<ul>AAverage point differential per quarter, half, and match by each team.</ul>
+<ul>AThe lowest point total scored during any quarter during the whole season.</ul>
+<ul>AThe highest point total scored during any quarter during the whole season.</ul>
 
 The program should use what you have learned in this class and use objects with proper OOP methods. 
